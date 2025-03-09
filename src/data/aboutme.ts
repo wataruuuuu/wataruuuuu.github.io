@@ -31,9 +31,9 @@ export const aboutMe: AboutMe = {
   githubUsername: "wataruuuuu",
   //linkedinUsername: "janesmith",
   twitterUsername: "jkliplop",
-  blogUrl: "https://",
-  cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+  //blogUrl: "https://",
+  //cvUrl: "https://",
+  institutionUrl: "https://www.tohoku.ac.jp/en/",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
