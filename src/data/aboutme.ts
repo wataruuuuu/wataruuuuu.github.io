@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Tohoku University",
   // Note that links work in the description
   description:
-  "I'm a 4th year undergraduate student at <a href='https://www.tohoku.ac.jp/en/'>Tohoku University</a>. My research interests include [your research interests/field].",
+  "I'm a 4th year undergraduate student at <a href='https://www.tohoku.ac.jp/en/'>Tohoku University</a>. My research interests include Natural Language Processing and Knowledge of language models.",
   email: "ikeda.wataru.q5@dc.tohoku.ac.jp",
   imageUrl:
     "https://i.gyazo.com/8a639c037eea594c60eb2f24efc2086c.jpg",
