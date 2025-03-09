@@ -15,7 +15,7 @@ export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
     year: "2025",
-    conference: "言語処理学会第31回年次大会（NLP 2025）",
+    conference: "言語処理学会第31回年次大会",
     title: "Transformer LLMにおける層単位のFFN層の重要度検証",
     authors: "池田航, 矢野一樹, 高橋良允, 李宰成, 柴田圭吾, 鈴木潤",
     paperUrl: "",
@@ -30,14 +30,14 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2025",
-    conference: "言語処理学会第31回年次大会（NLP 2025）",
+    conference: "言語処理学会第31回年次大会",
     title: "LLM 事前学習の効率化と性質改善：埋め込み層および出力層のパラメータ固定による再利用",
     authors: "矢野一樹, 高橋良允, 李宰成, 柴田圭吾, 池田航, 鈴木潤",
     paperUrl: "",
   },
   {
     year: "2025",
-    conference: "言語処理学会第31回年次大会（NLP 2025）",
+    conference: "言語処理学会第31回年次大会",
     title: "Transformer LLM の内部挙動改善：隠れ状態ベクトルの数値的収束性の向上",
     authors: "柴田圭吾, 高橋良允, 矢野一樹, 李宰成, 池田航, 鈴木潤",
     paperUrl: "",
