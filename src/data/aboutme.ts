@@ -18,7 +18,7 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Wataru Ikeda / 池田 航",
+  name: "Wataru Ikeda",
   title: "1st Year Master's Student",
   institution: "Tohoku University",
   // Note that links work in the description
@@ -30,7 +30,7 @@ export const aboutMe: AboutMe = {
   //googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
   githubUsername: "wataruuuuu",
   //linkedinUsername: "janesmith",
-  twitterUsername: "@wataruuuuu_i",
+  twitterUsername: "wataruuuuu_i",
   //blogUrl: "https://",
   //cvUrl: "https://",
   institutionUrl: "https://www.tohoku.ac.jp/en/",
