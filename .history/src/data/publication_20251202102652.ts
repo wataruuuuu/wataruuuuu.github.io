@@ -20,7 +20,7 @@ export const publicationData: Publication[] = [
     authors: "Wataru Ikeda, Kazuki Yano, Ryosuke Takahashi, Jaesung Lee, Keigo Shibata, Jun Suzuki",
     paperUrl: "https://arxiv.org/abs/2508.17734",
     //codeUrl: "https://github.com/jsmith/scalable-causal-discovery",
-    bibtex: "https://arxiv.org/abs/2508.17734.bib",
+    bibtex: "https://arxiv.org/abs/2508.17734.",
     tldr: "Layerwise importance analysis of FFNs through selective FFN deactivation during pretraining.",
     imageUrl:
      "https://gyazo.com/86ec825a4bed02441b27c1e56fcbf400.png",

@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
   "I'm a 1st year master's student at <a href='https://www.tohoku.ac.jp/en/'>Tohoku University</a>. My research interests include Natural Language Processing and Knowledge of language models.",
   email: "ikeda.wataru.q5@dc.tohoku.ac.jp",
   imageUrl:
-    "/self_image.jpg",
+    "/public/self_image.jpg",
   //googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
   githubUsername: "wataruuuuu",
   linkedinUsername: "wataru-ikeda-196aa82bb",
