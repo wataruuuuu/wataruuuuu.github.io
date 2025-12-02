@@ -16,7 +16,7 @@ export const newsData: News[] = [
     date: "Jul 7, 2025",
     title: "Paper accepted at COLM 2025",
     description: "Our paper, \"Layerwise Importance Analysis of Feed-Forward Networks in Transformer-based Language Models,\" has been accepted at COLM 2025.",
-    link: "https://colm.org/",
+    link: "https://colmweb.org/",
   },
   {
     date: "Mar 13, 2025",
