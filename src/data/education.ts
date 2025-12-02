@@ -3,6 +3,7 @@ export interface Education {
   institution: string;
   degree: string;
   advisor?: string;
+  advisorUrl?: string;
   thesis?: string;
   thesisUrl?: string;
 }
@@ -14,6 +15,7 @@ export const educationData: Education[] = [
     institution: "Tohoku University",
     degree: "M.S in Information Science",
     advisor: "Prof. Jun Suzuki",
+    advisorUrl: "https://www.fai.cds.tohoku.ac.jp/members/js/",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
@@ -22,6 +24,7 @@ export const educationData: Education[] = [
     institution: "Tohoku University",
     degree: "B.S in Engineering",
     advisor: "Prof. Jun Suzuki",
+    advisorUrl: "https://www.fai.cds.tohoku.ac.jp/members/js/",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
