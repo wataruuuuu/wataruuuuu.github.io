@@ -20,8 +20,8 @@ export const newsData: News[] = [
   },
   {
     date: "Mar 13, 2025",
-    title: "",
-    description: "言語処理学会第31回年次大会 (ANLP 2025) にて若手奨励賞を受賞しました。",
+    title: "言語処理学会第31回年次大会 (ANLP 2025) にて若手奨励賞を受賞しました。",
+    description: "",
     link: "https://anlp.jp/nlp2025/award.html",
   }
 ];
